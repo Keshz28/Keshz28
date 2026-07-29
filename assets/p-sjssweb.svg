@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="176" viewBox="0 0 430 176"
+     role="img" aria-label="SJSSWeb — Business website and system built end to end for SJ Sunrise Services.">
+  <defs>
+    <style>
+      @keyframes rise { from{opacity:0;transform:translateY(6px)} to{opacity:1;transform:translateY(0)} }
+      .c{ animation: rise .45s ease-out both; }
+      @keyframes glow { 0%,100%{opacity:.5} 50%{opacity:1} }
+      .bar{ animation: glow 3.4s ease-in-out infinite; }
+      @media (prefers-reduced-motion: reduce){ .c,.bar{animation:none;opacity:1} }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#12161E"/><stop offset="1" stop-color="#0B0E13"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF3B5C"/><stop offset="1" stop-color="#7A1B2B"/>
+    </linearGradient>
+  </defs>
+  <g class="c">
+    <rect x="1" y="1" width="428" height="174" rx="13" fill="url(#bg)" stroke="#232A36" stroke-width="1.5"/>
+    <rect class="bar" x="1" y="18" width="3.5" height="140" rx="1.75" fill="url(#ac)"/>
+
+    <text x="24" y="42" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="16.5" font-weight="700" fill="#F0F3F6">SJSSWeb</text>
+
+    <g stroke="#6E7681" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M390 34 L404 20"/>
+      <path d="M396 20 L404 20 L404 28"/>
+    </g>
+
+    <text x="24" y="70" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="12" fill="#8B949E">Business website and system built end to end for</text>
+    <text x="24" y="88" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="12" fill="#8B949E">SJ Sunrise Services.</text>
+
+    <g><rect x="24" y="108" width="37.8" height="21" rx="10.5"
+             fill="#161B22" stroke="#2A313C" stroke-width="1"/>
+           <text x="42.9" y="122.5" text-anchor="middle"
+             font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="10.5" fill="#8B949E">Web</text></g><g><rect x="68.8" y="108" width="70.8" height="21" rx="10.5"
+             fill="#161B22" stroke="#2A313C" stroke-width="1"/>
+           <text x="104.2" y="122.5" text-anchor="middle"
+             font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="10.5" fill="#8B949E">Branding</text></g>
+
+    <circle cx="29" cy="150" r="5.5" fill="#563D7C"/>
+    <text x="42" y="154" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="12" fill="#8B949E">CSS</text>
+  </g>
+</svg>

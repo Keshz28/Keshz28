@@ -13,7 +13,16 @@
 <br />
 
 <div align="center">
-  <img src="assets/terminal.svg" alt="Terminal profile card for Sukesh Surase" width="100%" />
+  <table>
+    <tr>
+      <td align="center" width="310">
+        <img src="https://github.com/Keshz28.png" width="270" alt="Sukesh Surase" />
+      </td>
+      <td align="left">
+        <img src="assets/terminal.svg" width="566" alt="Terminal profile card for Sukesh Surase" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -42,6 +51,10 @@ my final-year project, and design and produce creative media under my own brand.
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## <img src="https://img.shields.io/badge/-03-FF3B5C?style=flat-square&labelColor=0A0C11" alt="03" />&nbsp; GitHub Stats
+
+<!-- If these cards show as broken images, the free shared github-readme-stats instance is rate-limited.
+     Fix permanently: deploy your own copy to Vercel (see SETUP.md section 7), then find-and-replace
+     "github-readme-stats.vercel.app" below with your own Vercel domain. -->
 
 <div align="center">
 
@@ -84,51 +97,17 @@ my final-year project, and design and produce creative media under my own brand.
 ## <img src="https://img.shields.io/badge/-06-FF3B5C?style=flat-square&labelColor=0A0C11" alt="06" />&nbsp; Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Keshz28/MorganaAI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=MorganaAI&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="MorganaAI" />
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Keshz28/SJSS_CRM_System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=SJSS_CRM_System&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="SJSS CRM System" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Keshz28/KLTG_Web_Upgrade">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=KLTG_Web_Upgrade&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="KLTG Web Upgrade" />
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Keshz28/GreenTech">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=GreenTech&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="GreenTech" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Keshz28/sukeshprofile">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=sukeshprofile&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="Portfolio site" />
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Keshz28/SJSSWeb">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=SJSSWeb&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="SJSS Web" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="assets/p-vrtour.svg" width="100%" alt="VR Campus Tour — final-year project, Unity and Meta Quest 3" />
 </div>
 
-> **In progress — VR Campus Tour** &nbsp;·&nbsp; Unity · Meta Quest 3 · XR
-> My final-year project: an immersive VR walkthrough that lets prospective students explore
-> HELP University's campus and facilities in 3D. Repo goes public once it's ready.
-
-<img src="assets/divider.svg" width="100%" alt="" />
+<div align="center">
+  <a href="https://github.com/Keshz28/MorganaAI"><img src="assets/p-morgana.svg" width="430" alt="MorganaAI" /></a>
+  <a href="https://github.com/Keshz28/SJSS_CRM_System"><img src="assets/p-crm.svg" width="430" alt="SJSS CRM System" /></a>
+  <a href="https://github.com/Keshz28/KLTG_Web_Upgrade"><img src="assets/p-kltg.svg" width="430" alt="KL The Guide" /></a>
+  <a href="https://github.com/Keshz28/GreenTech"><img src="assets/p-greentech.svg" width="430" alt="GreenTech" /></a>
+  <a href="https://github.com/Keshz28/sukeshprofile"><img src="assets/p-portfolio.svg" width="430" alt="Portfolio site" /></a>
+  <a href="https://github.com/Keshz28/SJSSWeb"><img src="assets/p-sjssweb.svg" width="430" alt="SJSS Web" /></a>
+</div>
 
 ## <img src="https://img.shields.io/badge/-07-FF3B5C?style=flat-square&labelColor=0A0C11" alt="07" />&nbsp; Education &amp; Certifications
 
@@ -141,27 +120,21 @@ my final-year project, and design and produce creative media under my own brand.
 | 📜 | **STPM** | Malaysian Higher School Certificate |
 | 📜 | **SPM** | Malaysian Certificate of Education |
 
-<!--
-🎧 SPOTIFY NOW PLAYING — parked.
-The hosted widget returned "invalid_grant – Invalid authorization code" during sign-in; that's a
-fault on their service, not your setup. To switch it on later: authorise at
-https://spotify-github-profile.kittinanx.com, paste your uid over YOUR_SPOTIFY_USER_ID in both
-links below, then delete this comment wrapper — and renumber the Connect section below to 09.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## <img src="https://img.shields.io/badge/-08-FF3B5C?style=flat-square&labelColor=0A0C11" alt="08" />&nbsp; Now Playing
 
 <div align="center">
+  <!-- Replace BOTH copies of YOUR_SPOTIFY_USER_ID below with the uid from spotify-github-profile.kittinanx.com -->
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=FF3B5C&bar_color_cover=false" alt="Spotify now playing" />
   </a>
 </div>
--->
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://img.shields.io/badge/-08-FF3B5C?style=flat-square&labelColor=0A0C11" alt="08" />&nbsp; Connect
+## <img src="https://img.shields.io/badge/-09-FF3B5C?style=flat-square&labelColor=0A0C11" alt="09" />&nbsp; Connect
 
 <div align="center">
 
