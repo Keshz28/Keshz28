@@ -58,7 +58,7 @@ my final-year project, and design and produce creative media under my own brand.
 
 <div align="center">
 
-<img height="170" alt="Sukesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Keshz28&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C&ring_color=FF3B5C" />
+<img height="170" alt="Sukesh's GitHub stats" src="github-readme-stats-jade-pi-69.vercel.app" />
 <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshz28&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9" />
 
 <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Keshz28&hide_border=true&background=0D1117&stroke=232A36&ring=FF3B5C&fire=FF3B5C&currStreakLabel=FF3B5C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
