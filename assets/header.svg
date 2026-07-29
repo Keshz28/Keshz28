@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210"
+     role="img" aria-label="Sukesh Surase — IT Student, Full-Stack Developer, XR Developer, Creative Media Producer, UI/UX Designer">
+  <defs>
+    <style>
+      
+    @keyframes rv0 {
+      0%,0.00%      { transform: translateX(-126px); }
+      5.60%,16.80% { transform: translateX(0px); }
+      20.00%,100%    { transform: translateX(-126px); }
+    }
+    .rv0{ animation: rv0 20s steps(10,end) infinite; }
+    @keyframes op0 { 0%,20.00%{opacity:1} 20.01%,100%{opacity:0} }
+    .op0{ animation: op0 20s linear infinite; }
+    
+    @keyframes rv1 {
+      0%,20.00%      { transform: translateX(-252px); }
+      25.60%,36.80% { transform: translateX(0px); }
+      40.00%,100%    { transform: translateX(-252px); }
+    }
+    .rv1{ animation: rv1 20s steps(20,end) infinite; }
+    @keyframes op1 { 0%,20.00%{opacity:0} 20.01%,40.00%{opacity:1} 40.01%,100%{opacity:0} }
+    .op1{ animation: op1 20s linear infinite; }
+    
+    @keyframes rv2 {
+      0%,40.00%      { transform: translateX(-151.2px); }
+      45.60%,56.80% { transform: translateX(0px); }
+      60.00%,100%    { transform: translateX(-151.2px); }
+    }
+    .rv2{ animation: rv2 20s steps(12,end) infinite; }
+    @keyframes op2 { 0%,40.00%{opacity:0} 40.01%,60.00%{opacity:1} 60.01%,100%{opacity:0} }
+    .op2{ animation: op2 20s linear infinite; }
+    
+    @keyframes rv3 {
+      0%,60.00%      { transform: translateX(-289.8px); }
+      65.60%,76.80% { transform: translateX(0px); }
+      80.00%,100%    { transform: translateX(-289.8px); }
+    }
+    .rv3{ animation: rv3 20s steps(23,end) infinite; }
+    @keyframes op3 { 0%,60.00%{opacity:0} 60.01%,80.00%{opacity:1} 80.01%,100%{opacity:0} }
+    .op3{ animation: op3 20s linear infinite; }
+    
+    @keyframes rv4 {
+      0%,80.00%      { transform: translateX(-176.4px); }
+      85.60%,96.80% { transform: translateX(0px); }
+      100.00%,100%    { transform: translateX(-176.4px); }
+    }
+    .rv4{ animation: rv4 20s steps(14,end) infinite; }
+    @keyframes op4 { 0%,80.00%{opacity:0} 80.01%,100.00%{opacity:1} 100.01%,100%{opacity:0} }
+    .op4{ animation: op4 20s linear infinite; }
+    
+      @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      .cursor{ animation: blink 1.06s steps(1,end) infinite; }
+      @keyframes sweep { 0%{transform:translateX(-880px)} 55%,100%{transform:translateX(880px)} }
+      .sweep{ animation: sweep 7s cubic-bezier(.4,0,.2,1) infinite; }
+      @keyframes draw { 0%{stroke-dashoffset:620} 40%,100%{stroke-dashoffset:0} }
+      .rule{ stroke-dasharray:620; animation: draw 2.6s ease-out forwards; }
+      @media (prefers-reduced-motion: reduce){
+        .sweep,.cursor,.rule{animation:none}
+        .rv0,.op0{animation:none}.rv1,.op1{animation:none}.rv2,.op2{animation:none}.rv3,.op3{animation:none}.rv4,.op4{animation:none}
+      }
+    </style>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0"   stop-color="#0F1218"/>
+      <stop offset="1"   stop-color="#08090C"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#FF3B5C" stop-opacity="0"/>
+      <stop offset="0.5"  stop-color="#FF3B5C" stop-opacity="1"/>
+      <stop offset="1"    stop-color="#FF3B5C" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.06"/>
+      <stop offset="1"   stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="880" height="210" rx="16"/></clipPath>
+    <mask id="m0">
+      <rect class="rv0" x="377.0" y="129" width="126.0" height="31" fill="#fff"/>
+    </mask>
+<mask id="m1">
+      <rect class="rv1" x="314.0" y="129" width="252.0" height="31" fill="#fff"/>
+    </mask>
+<mask id="m2">
+      <rect class="rv2" x="364.4" y="129" width="151.2" height="31" fill="#fff"/>
+    </mask>
+<mask id="m3">
+      <rect class="rv3" x="295.1" y="129" width="289.8" height="31" fill="#fff"/>
+    </mask>
+<mask id="m4">
+      <rect class="rv4" x="351.8" y="129" width="176.4" height="31" fill="#fff"/>
+    </mask>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="880" height="210" fill="url(#bg)"/>
+    <rect width="880" height="210" fill="url(#grid)"/>
+
+    <!-- original abstract strand motif (no third-party marks) -->
+    <g stroke="#F0F3F6" stroke-opacity="0.10" fill="none" stroke-width="1">
+      <path d="M0 24 L150 105 L0 186"/>
+      <path d="M880 24 L730 105 L880 186"/>
+      <path d="M64 0 L150 105 L64 210"/>
+      <path d="M816 0 L730 105 L816 210"/>
+      <path d="M0 105 L880 105" stroke-opacity="0.05"/>
+    </g>
+    <g fill="#FF3B5C" fill-opacity="0.55">
+      <circle cx="150" cy="105" r="2.6"/><circle cx="730" cy="105" r="2.6"/>
+    </g>
+
+    <rect class="sweep" width="880" height="210" fill="url(#shine)"/>
+
+    <text x="440" y="72" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif"
+          font-size="40" font-weight="700" fill="#F0F3F6" letter-spacing="7">SUKESH SURASE</text>
+    <text x="440" y="99" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace"
+          font-size="13" fill="#8B949E" letter-spacing="4.5">K E S H  ·  @ K E S H Z 2 8</text>
+
+    <line class="rule" x1="130" y1="117" x2="750" y2="117"
+          stroke="url(#rule)" stroke-width="1.5"/>
+
+    
+    <g class="op0">
+      <g mask="url(#m0)">
+        <text x="440.0" y="150" text-anchor="middle"
+              font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="21" font-weight="500" fill="#F0F3F6"
+              letter-spacing="0">IT Student</text>
+      </g>
+      <rect class="rv0" x="503.0" y="131" width="10" height="21" fill="#FF3B5C"/>
+    </g>
+    <g class="op1">
+      <g mask="url(#m1)">
+        <text x="440.0" y="150" text-anchor="middle"
+              font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="21" font-weight="500" fill="#F0F3F6"
+              letter-spacing="0">Full-Stack Developer</text>
+      </g>
+      <rect class="rv1" x="566.0" y="131" width="10" height="21" fill="#FF3B5C"/>
+    </g>
+    <g class="op2">
+      <g mask="url(#m2)">
+        <text x="440.0" y="150" text-anchor="middle"
+              font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="21" font-weight="500" fill="#F0F3F6"
+              letter-spacing="0">XR Developer</text>
+      </g>
+      <rect class="rv2" x="515.6" y="131" width="10" height="21" fill="#FF3B5C"/>
+    </g>
+    <g class="op3">
+      <g mask="url(#m3)">
+        <text x="440.0" y="150" text-anchor="middle"
+              font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="21" font-weight="500" fill="#F0F3F6"
+              letter-spacing="0">Creative Media Producer</text>
+      </g>
+      <rect class="rv3" x="584.9" y="131" width="10" height="21" fill="#FF3B5C"/>
+    </g>
+    <g class="op4">
+      <g mask="url(#m4)">
+        <text x="440.0" y="150" text-anchor="middle"
+              font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="21" font-weight="500" fill="#F0F3F6"
+              letter-spacing="0">UI/UX Designer</text>
+      </g>
+      <rect class="rv4" x="528.2" y="131" width="10" height="21" fill="#FF3B5C"/>
+    </g>
+
+    <text x="440" y="186" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace"
+          font-size="12.5" fill="#8B949E" letter-spacing="1.2">Kuala Lumpur, Malaysia  ·  building across web, systems &amp; XR</text>
+
+    <rect width="880" height="210" rx="16" fill="none" stroke="#232A36" stroke-width="1.5"/>
+  </g>
+</svg>

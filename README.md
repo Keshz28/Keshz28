@@ -1,101 +1,179 @@
 <div align="center">
-
-# Hi, I'm Sukesh Surase (Kesh) 👋
-
-### IT Student · Full-Stack Developer · XR Developer · Creative Media Producer · UI/UX Designer
-
-📍 Kuala Lumpur, Malaysia
-
-I build across the entire stack — from pixel-perfect UIs and full-stack systems to immersive VR experiences.
-
+  <img src="assets/header.svg" alt="Sukesh Surase — IT Student, Full-Stack Developer, XR Developer, Creative Media Producer, UI/UX Designer" width="100%" />
 </div>
 
----
+<div align="center">
+  <a href="https://sukeshprofile.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0C11?style=for-the-badge&logo=vercel&logoColor=FF3B5C&labelColor=0A0C11" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sukesh-surase"><img src="https://img.shields.io/badge/LinkedIn-0A0C11?style=for-the-badge&logo=linkedin&logoColor=FF3B5C&labelColor=0A0C11" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/yldi_production"><img src="https://img.shields.io/badge/Instagram-0A0C11?style=for-the-badge&logo=instagram&logoColor=FF3B5C&labelColor=0A0C11" alt="Instagram" /></a>
+  <a href="mailto:surasesukesh@gmail.com"><img src="https://img.shields.io/badge/Email-0A0C11?style=for-the-badge&logo=gmail&logoColor=FF3B5C&labelColor=0A0C11" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Keshz28&label=Profile%20views&color=FF3B5C&style=for-the-badge" alt="Profile views" />
+</div>
 
-- 🥽 Currently building a **VR Campus Tour** on **Meta Quest 3** — immersive 3D facility walkthroughs for prospective students
-- 💻 Working across **full-stack web**, **business systems**, and **CRM platforms**
-- 🎓 Final-year **BIT (Hons.)** at **HELP University** · **Oracle Database SQL Certified Associate**
-- 🎨 Blending engineering, design & creative media — dev, UI/UX, XR/VR, copywriting and public speaking
-- 📫 Reach me at **surasesukesh@gmail.com**
+<br />
 
----
+<div align="center">
+  <img src="assets/terminal.svg" alt="Terminal profile card for Sukesh Surase" width="100%" />
+</div>
 
-### 🛠️ Languages & Tools
+<img src="assets/divider.svg" width="100%" alt="" />
 
-**Languages**
+## <img src="https://img.shields.io/badge/-01-FF3B5C?style=flat-square&labelColor=0A0C11" alt="01" />&nbsp; About
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+I'm a final-year **BIT (Hons.)** student at **HELP University**, Kuala Lumpur — and a developer who
+refuses to stay in one lane. I build production web systems by day, immersive **XR** experiences for
+my final-year project, and design and produce creative media under my own brand.
 
-**Frameworks & Libraries**
+- Currently building a **VR Campus Tour** on **Meta Quest 3** — immersive 3D facility walkthroughs for prospective students
+- Shipping **full-stack web platforms, business systems and CRMs** for real companies, not just coursework
+- Exploring **agentic AI tooling** — `MorganaAI` is my voice-first personal assistant, built on Claude
+- Blending **engineering with design** — UI/UX, media production, copywriting, and public speaking
+- Operating **`yldi_production`**, my creative media brand
+- Reach me at **surasesukesh@gmail.com**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="assets/divider.svg" width="100%" alt="" />
 
-**Tools & Platforms**
+## <img src="https://img.shields.io/badge/-02-FF3B5C?style=flat-square&labelColor=0A0C11" alt="02" />&nbsp; Languages &amp; Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<div align="center">
+  <img src="assets/tech-marquee.svg" alt="Tech stack: TypeScript, JavaScript, Python, Java, C#, PHP, Dart, HTML5, CSS, React, Angular, Next.js, Flutter, Node.js, Tailwind, Unity, Figma, MySQL, PostgreSQL, MongoDB, Firebase, Docker, Git, WordPress, Vercel" width="100%" />
+</div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-### 📌 Featured Projects
-
-| Project | Stack | What it is |
-|---|---|---|
-| **VR Campus Tour** *(repo coming soon)* | XR · Meta Quest 3 | Interactive VR campus tour letting prospective students explore facilities in immersive 3D |
-| [KL The Guide](https://github.com/Keshz28/KLTG_Web_Upgrade) | PHP | Travel-guide web platform for discovering the best of Kuala Lumpur |
-| [SJRenovation CRM](https://sukeshprofile.vercel.app/) | Full-Stack · CRM | CRM for a renovation company — customers, quotations & project pipelines |
-| [SJSS Web](https://github.com/Keshz28/SJSSWeb) | Web · Full-Stack | Business website & system built end-to-end for a strong brand presence |
-| [GreenTech](https://github.com/Keshz28/GreenTech) | Angular · TypeScript | Waste management system for tracking and handling waste |
-| [NemosApp](https://github.com/Keshz28/NemosApp_copy) | Python | University coursework project (BIT 306) |
-
----
-
-### 📊 GitHub Stats
+## <img src="https://img.shields.io/badge/-03-FF3B5C?style=flat-square&labelColor=0A0C11" alt="03" />&nbsp; GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Keshz28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshz28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" alt="Sukesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Keshz28&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C&ring_color=FF3B5C" />
+<img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshz28&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9" />
 
-<img src="https://streak-stats.demolab.com/?user=Keshz28&theme=tokyonight&hide_border=true" />
+<img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Keshz28&hide_border=true&background=0D1117&stroke=232A36&ring=FF3B5C&fire=FF3B5C&currStreakLabel=FF3B5C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Keshz28&bg_color=0D1117&color=C9D1D9&line=FF3B5C&point=FFFFFF&area=true&area_color=FF3B5C&hide_border=true" width="100%" />
 
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## <img src="https://img.shields.io/badge/-04-FF3B5C?style=flat-square&labelColor=0A0C11" alt="04" />&nbsp; Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Keshz28/Keshz28/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keshz28/Keshz28/output/snake-light.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Keshz28/Keshz28/output/snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## <img src="https://img.shields.io/badge/-05-FF3B5C?style=flat-square&labelColor=0A0C11" alt="05" />&nbsp; Experience
+
+**Operations Manager** &nbsp;·&nbsp; SJ Sunrise Services
+> Running day-to-day operations and coordination for the services business.
+
+**IT Software Developer** &nbsp;·&nbsp; Sinar Jasa Trading
+> Building and maintaining internal software and business systems.
+
+**Information Technology Intern** &nbsp;·&nbsp; Bluedale Group of Companies
+> Redeveloped the KL The Guide travel platform, built an admin dashboard and clients gallery, and ran QA across the live site.
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## <img src="https://img.shields.io/badge/-06-FF3B5C?style=flat-square&labelColor=0A0C11" alt="06" />&nbsp; Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Keshz28/MorganaAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=MorganaAI&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="MorganaAI" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Keshz28/SJSS_CRM_System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=SJSS_CRM_System&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="SJSS CRM System" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Keshz28/KLTG_Web_Upgrade">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=KLTG_Web_Upgrade&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="KLTG Web Upgrade" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Keshz28/GreenTech">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=GreenTech&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="GreenTech" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Keshz28/sukeshprofile">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=sukeshprofile&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="Portfolio site" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Keshz28/SJSSWeb">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keshz28&repo=SJSSWeb&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=C9D1D9&icon_color=FF3B5C" alt="SJSS Web" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+> **In progress — VR Campus Tour** &nbsp;·&nbsp; Unity · Meta Quest 3 · XR
+> My final-year project: an immersive VR walkthrough that lets prospective students explore
+> HELP University's campus and facilities in 3D. Repo goes public once it's ready.
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## <img src="https://img.shields.io/badge/-07-FF3B5C?style=flat-square&labelColor=0A0C11" alt="07" />&nbsp; Education &amp; Certifications
+
+| | Qualification | Institution |
+|---|---|---|
+| 🎓 | **BSc Information Technology (Hons.)** | HELP University — *final year* |
+| 🗄️ | **Oracle Database SQL Certified Associate** | Oracle |
+| 🗄️ | **Oracle Academy — Database Programming** | Oracle Academy |
+| 🗄️ | **Oracle Academy — Database Design** | Oracle Academy |
+| 📜 | **STPM** | Malaysian Higher School Certificate |
+| 📜 | **SPM** | Malaysian Certificate of Education |
 
 <!--
-🎧 NOW PLAYING (Spotify) — parked for now. The hosted widget's sign-in was returning
-invalid_grant (an issue on the hosted service's side, not your setup). To switch it on later:
-authorize at spotify-github-profile.kittinanx.com, swap your Spotify uid in for
-YOUR_SPOTIFY_USER_ID in both links below, then remove this comment wrapper.
+🎧 SPOTIFY NOW PLAYING — parked.
+The hosted widget returned "invalid_grant – Invalid authorization code" during sign-in; that's a
+fault on their service, not your setup. To switch it on later: authorise at
+https://spotify-github-profile.kittinanx.com, paste your uid over YOUR_SPOTIFY_USER_ID in both
+links below, then delete this comment wrapper — and renumber the Connect section below to 09.
 
-### 🎧 Now Playing
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## <img src="https://img.shields.io/badge/-08-FF3B5C?style=flat-square&labelColor=0A0C11" alt="08" />&nbsp; Now Playing
 
 <div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=FF3B5C&bar_color_cover=false" alt="Spotify now playing" />
+  </a>
 </div>
 -->
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-### 🤝 Connect with Me
+## <img src="https://img.shields.io/badge/-08-FF3B5C?style=flat-square&labelColor=0A0C11" alt="08" />&nbsp; Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukesh-surase)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yldi_production)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surasesukesh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-05060A?style=for-the-badge&logo=vercel&logoColor=white)](https://sukeshprofile.vercel.app/)
+Open to **internships, freelance builds and collaboration** — web, XR, or creative media.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Keshz28&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<a href="https://sukeshprofile.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF3B5C?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sukesh-surase"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/yldi_production"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:surasesukesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+<br /><br />
+
+<sub><i>Built and designed by Sukesh Surase · Kuala Lumpur, Malaysia</i></sub>
 
 </div>

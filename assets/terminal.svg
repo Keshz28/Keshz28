@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="382" viewBox="0 0 880 382"
+     role="img" aria-label="Terminal card: Sukesh Surase — Full-Stack, XR and UI/UX developer at HELP University, Kuala Lumpur">
+  <defs>
+    <style>
+      @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      .cur{ animation: blink 1.06s steps(1,end) infinite; }
+      @keyframes fin { from{opacity:0;transform:translateY(3px)} to{opacity:1;transform:translateY(0)} }
+      .ln0{opacity:0;animation:fin .32s ease-out forwards;animation-delay:0.55s}
+      .ln1{opacity:0;animation:fin .32s ease-out forwards;animation-delay:0.68s}
+      .ln2{opacity:0;animation:fin .32s ease-out forwards;animation-delay:0.81s}
+      .ln3{opacity:0;animation:fin .32s ease-out forwards;animation-delay:0.94s}
+      .ln4{opacity:0;animation:fin .32s ease-out forwards;animation-delay:1.07s}
+      .ln5{opacity:0;animation:fin .32s ease-out forwards;animation-delay:1.20s}
+      .ln6{opacity:0;animation:fin .32s ease-out forwards;animation-delay:1.33s}
+      .ln7{opacity:0;animation:fin .32s ease-out forwards;animation-delay:1.46s}
+      .cmd{opacity:0;animation:fin .3s ease-out forwards;animation-delay:.18s}
+      .art{opacity:0;animation:fin .5s ease-out forwards;animation-delay:.4s}
+      .tail{opacity:0;animation:fin .3s ease-out forwards;animation-delay:1.75s}
+      @media (prefers-reduced-motion: reduce){
+        .cur,.cmd,.art,.tail{animation:none;opacity:1}
+        .ln0{animation:none;opacity:1}.ln1{animation:none;opacity:1}.ln2{animation:none;opacity:1}.ln3{animation:none;opacity:1}.ln4{animation:none;opacity:1}.ln5{animation:none;opacity:1}.ln6{animation:none;opacity:1}.ln7{animation:none;opacity:1}
+      }
+    </style>
+    <linearGradient id="mono" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0"   stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#C9D1D9"/>
+      <stop offset="1"   stop-color="#FF3B5C"/>
+    </linearGradient>
+    <linearGradient id="tbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141821"/>
+      <stop offset="1" stop-color="#0F131A"/>
+    </linearGradient>
+    <clipPath id="cl"><rect width="880" height="382" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cl)">
+    <rect width="880" height="382" fill="#0A0C11"/>
+
+    <!-- title bar -->
+    <rect width="880" height="42" fill="url(#tbg)"/>
+    <line x1="0" y1="42" x2="880" y2="42" stroke="#232A36" stroke-width="1"/>
+    <circle cx="24" cy="21" r="6" fill="#FF5F57"/>
+    <circle cx="45" cy="21" r="6" fill="#FEBC2E"/>
+    <circle cx="66" cy="21" r="6" fill="#28C840"/>
+    <text x="440" y="26" text-anchor="middle" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#8B949E">keshz28@github: ~</text>
+
+    <!-- command line -->
+    <g class="cmd">
+      <text x="34" y="80" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14">
+        <tspan fill="#7EE787" font-weight="700">keshz28@github</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#79C0FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">neofetch --profile</tspan>
+      </text>
+    </g>
+
+    <g class="art">
+    <rect x="48" y="112" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="61" y="112" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="126" y="112" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="139" y="112" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="48" y="125" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="61" y="125" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="113" y="125" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="126" y="125" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="48" y="138" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="61" y="138" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="100" y="138" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="113" y="138" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="48" y="151" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="61" y="151" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="87" y="151" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="100" y="151" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="48" y="164" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="61" y="164" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="74" y="164" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="87" y="164" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="48" y="177" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="61" y="177" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="87" y="177" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="100" y="177" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="48" y="190" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="61" y="190" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="100" y="190" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="113" y="190" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="48" y="203" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="61" y="203" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="113" y="203" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="126" y="203" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="48" y="216" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="61" y="216" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="126" y="216" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/><rect x="139" y="216" width="11.4" height="11.4" rx="1.5" fill="url(#mono)"/>
+    </g>
+
+    <g class="ln0"><text x="224" y="130" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#FF3B5C">role</text><text x="270" y="130" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#8B949E">:</text><text x="300" y="130" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#E6EDF3">Full-Stack · XR · UI/UX · Creative Media</text></g>
+    <g class="ln1"><text x="224" y="155" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#FF3B5C">edu</text><text x="270" y="155" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#8B949E">:</text><text x="300" y="155" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#E6EDF3">BIT (Hons.) — HELP University</text></g>
+    <g class="ln2"><text x="224" y="180" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#FF3B5C">cert</text><text x="270" y="180" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#8B949E">:</text><text x="300" y="180" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#E6EDF3">Oracle Database SQL Certified Associate</text></g>
+    <g class="ln3"><text x="224" y="205" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#FF3B5C">focus</text><text x="270" y="205" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#8B949E">:</text><text x="300" y="205" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#E6EDF3">VR Campus Tour — Meta Quest 3</text></g>
+    <g class="ln4"><text x="224" y="230" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#FF3B5C">work</text><text x="270" y="230" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#8B949E">:</text><text x="300" y="230" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#E6EDF3">SJ Sunrise · Sinar Jasa Trading · Bluedale</text></g>
+    <g class="ln5"><text x="224" y="255" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#FF3B5C">stack</text><text x="270" y="255" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#8B949E">:</text><text x="300" y="255" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#E6EDF3">TypeScript · Python · React · Unity</text></g>
+    <g class="ln6"><text x="224" y="280" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#FF3B5C">base</text><text x="270" y="280" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#8B949E">:</text><text x="300" y="280" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#E6EDF3">Kuala Lumpur, MY  (UTC+8)</text></g>
+    <g class="ln7"><text x="224" y="305" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#FF3B5C">web</text><text x="270" y="305" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#8B949E">:</text><text x="300" y="305" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#E6EDF3">sukeshprofile.vercel.app</text></g>
+
+    <!-- palette strip, like real neofetch -->
+    <g class="tail">
+      <g>
+        <rect x="224" y="326" width="22" height="11" rx="2" fill="#FF3B5C"/>
+        <rect x="250" y="326" width="22" height="11" rx="2" fill="#FEBC2E"/>
+        <rect x="276" y="326" width="22" height="11" rx="2" fill="#7EE787"/>
+        <rect x="302" y="326" width="22" height="11" rx="2" fill="#79C0FF"/>
+        <rect x="328" y="326" width="22" height="11" rx="2" fill="#C9D1D9"/>
+      </g>
+      <text x="34" y="356" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14">
+        <tspan fill="#7EE787" font-weight="700">keshz28@github</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#79C0FF">~</tspan><tspan fill="#8B949E">$ </tspan>
+      </text>
+      <rect class="cur" x="185" y="344" width="9" height="16" fill="#FF3B5C"/>
+    </g>
+
+    <rect width="880" height="382" rx="14" fill="none" stroke="#232A36" stroke-width="1.5"/>
+  </g>
+</svg>
