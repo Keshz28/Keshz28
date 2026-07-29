@@ -126,9 +126,8 @@ my final-year project, and design and produce creative media under my own brand.
 ## <img src="https://img.shields.io/badge/-08-FF3B5C?style=flat-square&labelColor=0A0C11" alt="08" />&nbsp; Now Playing
 
 <div align="center">
-  <!-- Replace BOTH copies of YOUR_SPOTIFY_USER_ID below with the uid from spotify-github-profile.kittinanx.com -->
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=FF3B5C&bar_color_cover=false" alt="Spotify now playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fx4so4gpexhhommj4cru5p3ro4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fx4so4gpexhhommj4cru5p3ro4&cover_image=true&theme=novatorem&bar_color=FF3B5C&bar_color_cover=false&background_color=0D1117&border_radius=14" alt="Spotify now playing" />
   </a>
 </div>
 
